@@ -96,7 +96,7 @@
 <hr>
 
 <h2 id="contact">📬 Contact</h2>
-<p><strong>Maintainer:</strong> KLU Student</p>
+<p><strong>Maintainer:</strong> Bellamkonda V A Devesh</p>
 <p>Email: <a href="mailto:2200032499cseh@gmail.com">2200032499cseh@gmail.com</a></p>
 <p>GitHub: <a href="https://github.com/BVADevesh">https://github.com/BVADevesh</a></p>
 
