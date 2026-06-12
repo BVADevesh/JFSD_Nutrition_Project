@@ -95,15 +95,10 @@
 
 <hr>
 
-<h2 id="license">📄 License</h2>
-<p>This project is licensed under the <strong>MIT License</strong> – see the <a href="https://github.com/klu2200032499/JFSD_Nutrition_Project/blob/main/LICENSE">LICENSE</a> file for details.</p>
-
-<hr>
-
 <h2 id="contact">📬 Contact</h2>
 <p><strong>Maintainer:</strong> KLU Student</p>
-<p>Email: <a href="mailto:klu2200032499@kluniversity.in">klu2200032499@kluniversity.in</a></p>
-<p>GitHub: <a href="https://github.com/klu2200032499">https://github.com/klu2200032499</a></p>
+<p>Email: <a href="mailto:2200032499cseh@gmail.com">2200032499cseh@gmail.com</a></p>
+<p>GitHub: <a href="https://github.com/BVADevesh">https://github.com/BVADevesh</a></p>
 
 <hr>
 
